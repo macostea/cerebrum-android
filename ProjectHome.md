@@ -1,0 +1,2 @@
+Cerebrum is an Android ROM built for stability and performance mostly for lower-end devices.
+If you are a developer and want to port the rom to your device, grab the source and start developing. If you need help, don't hesitate to contact me.
